@@ -3,6 +3,7 @@ div{
     padding: 10px;
     border: 10px solid gray;
     border-radius: 10px;
+    margin: 10px;
 }
 body{
     background-color: rgba(47, 87, 54, 0.805);
